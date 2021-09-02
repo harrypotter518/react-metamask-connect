@@ -736,7 +736,3 @@ And that's it for this tutorial! Hopefully it will help you feel comfortable get
 The next steps for us will be to learn how to import contracts and make transactions - let me know in the comments if that's something you'd like to learn!
 
 Thanks for playing ;)
-
-[Full Repo](https://github.com/jacobedawson/connect-metamask-react-dapp)
-
-Follow me on Twitter: https://twitter.com/jacobedawson
